@@ -1,0 +1,2 @@
+This is first line of the another_file.txt
+This is first line of the my_file.txt
